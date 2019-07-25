@@ -1,0 +1,241 @@
+@font-face {
+ 	font-family: 'Av';
+ 	src: url("Avenir-Book.ttf");
+ }
+ @font-face {
+ 	font-family: 'AvBold';
+ 	src: url("Avenir-Heavy.ttf");
+ }
+  @font-face {
+ 	font-family: 'AvBolder';
+ 	src: url("Avenir-Black.ttf");
+ }
+ @font-face {
+ 	font-family: 'AvL';
+ 	src: url("Avenir-Light.ttf");
+ }
+ @font-face {
+ 	font-family: 'AvO';
+ 	src: url("Avenir-Oblique.ttf");
+ }
+
+body{
+  font-family: 'Roboto Condensed', sans-serif;
+	background-color: white;
+	margin: 0;
+	padding: 0;
+	width: 99%;
+	margin-left: .05%;
+	height: 100%;
+	-webkit-font-smoothing: antialiased;
+}
+
+a{
+	text-decoration: none;
+}
+
+.background{
+  z-index: 0;
+}
+
+h1{
+font-family: 'Fjalla One', sans-serif;
+font-size:50px;
+text-align: left;
+line-height: 10px;
+margin-left:82px;
+letter-spacing: 4px;
+color: #4C4C4C;
+}
+.name{
+  position: fixed;
+  padding-left: 30%;
+  font-size:80px;
+  z-index: 100;
+  padding-top: 23%;
+  font-family: 'Abril Fatface', cursive;
+  font-weight: bold;
+  color: rgb(163,51,124);
+}
+#sacramento  {
+  margin-top: 30px;
+  margin-left: 130px;
+  font-size: 50px;
+
+}
+nav{
+  display: block;
+  position: fixed;
+  top: 0;
+  width: 10%;
+  height: 100%;
+  text-align: left;
+  margin-left: 0;
+  padding-left: 7%;
+  padding-top: 5%;
+  font-size: 20px;
+  font-family: 'Fjalla One', sans-serif;
+  z-index: 100;
+}
+
+#nav li{
+	display: inline-block;
+	margin-left: 20px;
+  color: #4C4C4C;
+}
+
+#nav a{
+  padding: 6px 8px 60% 16px;
+  text-decoration: none;
+  font-size: 100%;
+  color: #818181;
+  display: block;
+}
+
+#nav a:hover{
+  font-family: 'Fjalla One', sans-serif;
+	letter-spacing: 2px;
+text-decoration: underline;
+color: #4C4C4C;
+}
+
+#icon{
+  text-align: left;
+  position:absolute;
+  font-size: 60px;
+	text-transform: uppercase;
+  font-family: 'Fjalla One', sans-serif;
+  margin-top:35px;
+	color: black;
+	padding:10px;
+  vertical-align: top;
+	background-color: none;
+  color: #4C4C4C;
+	height: 200px;
+  padding-left:7%;
+	top: 0;
+}
+#icon:hover{
+  font-size:35px;
+}
+@font-face {
+ 	font-family: 'Av';
+ 	src: url("Avenir-Book.ttf");
+ }
+ @font-face {
+ 	font-family: 'AvBold';
+ 	src: url("Avenir-Heavy.ttf");
+ }
+  @font-face {
+ 	font-family: 'AvBolder';
+ 	src: url("Avenir-Black.ttf");
+ }
+ @font-face {
+ 	font-family: 'AvL';
+ 	src: url("Avenir-Light.ttf");
+ }
+ @font-face {
+ 	font-family: 'AvO';
+ 	src: url("Avenir-Oblique.ttf");
+ }
+
+body{
+  font-family: 'Roboto Condensed', sans-serif;
+	background-color: white;
+	margin: 0;
+	padding: 0;
+	width: 99%;
+	margin-left: .05%;
+	height: 100%;
+	-webkit-font-smoothing: antialiased;
+}
+
+a{
+	text-decoration: none;
+}
+
+.background{
+  z-index: 0;
+  width: 100%;
+}
+
+h1{
+font-family: 'Fjalla One', sans-serif;
+font-size:50px;
+text-align: left;
+line-height: 10px;
+margin-left:82px;
+letter-spacing: 4px;
+color: #4C4C4C;
+}
+.name{
+  position: fixed;
+  padding-left:37%;
+  font-size:80px;
+  z-index: 100;
+  padding-top: 23%;
+  font-family: 'Abril Fatface', cursive;
+  font-weight: bold;
+  color: rgb(163,51,124);
+}
+#sacramento  {
+  margin-top: 40px;
+  margin-left: 15px;
+  font-size: 38px;
+
+}
+nav{
+  display: block;
+  position: fixed;
+  top: 0;
+  width: 10%;
+  height: 100%;
+  text-align: left;
+  margin-left: 0;
+  padding-left: 7%;
+  padding-top: 5%;
+  font-size: 20px;
+  font-family: 'Fjalla One', sans-serif;
+  z-index: 100;
+}
+
+#nav li{
+	display: inline-block;
+	margin-left: 20px;
+  color: #4C4C4C;
+}
+
+#nav a{
+  padding: 6px 8px 60% 16px;
+  text-decoration: none;
+  font-size: 100%;
+  color: #818181;
+  display: block;
+}
+
+#nav a:hover{
+  font-family: 'Fjalla One', sans-serif;
+	letter-spacing: 2px;
+text-decoration: underline;
+color: #4C4C4C;
+}
+
+#icon{
+  text-align: left;
+  position: fixed;
+  font-size: 50px;
+	text-transform: uppercase;
+  font-family: 'Fjalla One', sans-serif;
+  margin-top:8%;
+	color: black;
+	padding:10px;
+  vertical-align: top;
+	background-color: none;
+  color: #4C4C4C;
+	height: 100px;
+  padding-left:10%;
+	top: 0;
+}
+#icon:hover{
+  font-size:35px;
+}
